@@ -696,7 +696,7 @@ and the administrator will contact you if we need any extra information.</h4>
   </div>
 </div> <!-- End of 'R' section. -->
 
- <!-- 
+<!-- 
 Start of 'SQLite' section. 
 <div id="sql">
   <h3>SQLite</h3>
