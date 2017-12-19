@@ -696,7 +696,8 @@ and the administrator will contact you if we need any extra information.</h4>
   </div>
 </div> <!-- End of 'R' section. -->
 
- <!-- Start of 'SQLite' section. 
+ <!-- 
+Start of 'SQLite' section. 
 <div id="sql">
   <h3>SQLite</h3>
   <p>
@@ -730,7 +731,8 @@ and the administrator will contact you if we need any extra information.</h4>
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
 </div> 
-End of 'SQLite' section. -->
+End of 'SQLite' section. 
+-->
 
 <!--
   Uncomment this section if you are using our virtual machine.
