@@ -58,7 +58,7 @@ and the administrator will contact you if we need any extra information.</h4>
   the pitch.
 -->
 <p>
-  This workshop is a <strong>R-Workshop</strong> with a focus on scientific
+  This workshop is an <strong>R-Workshop</strong> with a focus on scientific
   computing. Everyone with solid basic knowledge of R or a similar scripting language
   is invited to <strong>join and getting in touch with tools and structures to 
     write scientific code with a high-quality, that is reproducible and follows a 
@@ -93,7 +93,7 @@ and the administrator will contact you if we need any extra information.</h4>
   The course aims at scientists and researchers who are interested in extending their skills
   in data processing and techniques on "how to write good scientific code"
   and how to deal with this in a broader context.
-  <strong>Solid knowledge of R or a similar scripting language is required. We start the workshop with a R-wrap-up to get everyone on board.</strong>
+  <strong>Solid basic knowledge of R or a similar scripting language is required. We start the workshop with a R-wrap-up to get everyone on board.</strong>
 </p>
 
 <!--
@@ -131,14 +131,11 @@ and the administrator will contact you if we need any extra information.</h4>
   Modify the block below if there are any special requirements.
 -->
 <p id="requirements">
-  <strong>Requirements:</strong> Participants are highly encouraged to usw the provided IT-infrastructure (computer).
-  This is a Linux system. Please note that the content taught can be used and easiliy be transfered later on to other operating systems.
-  If you implicitly want to use your own laptop, we cannot guarantee full support.
-  An installation routine (also only for Linux) will be provided in advance, so you can install the required software.
-  Specific software packages required are listed
-  <a href="#setup">below</a>. They are also required to abide by
-  Software Carpentry's
-  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
+   They should have a few specific software packages installed
+  
+  
+  <strong>Requirements:</strong> Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. Specific software packages required are listed
+  <a href="#setup">below</a>. They are also required to abide by Software Carpentry's <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
 </p>
 
 <!--
@@ -151,13 +148,13 @@ and the administrator will contact you if we need any extra information.</h4>
   accessible to everybody. Please contact the organisers if you have any 
   requirements and/or need assistance to access the workshop rooms.
 </p>
-<p>
+<!--<p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
   organizers in advance.  If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch and we will attempt to provide them.
-</p>
+</p>-->
 
 <!--
   CONTACT EMAIL ADDRESS
