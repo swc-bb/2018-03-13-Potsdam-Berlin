@@ -2,11 +2,11 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "swc"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "Albert Einstein Science Park, Potsdam"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Albert Einstein Science Park, Potsdam, Germany"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Kuppel at PIK (Potsdam Institute for Climate Impact Research), Albert-Einstein Wissenschaftspark, Telegrafenberg, 14473 Potsdam"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "52.3798284, 13.0641701"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+latlng: "52.379622, 13.062263"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "March 22-23, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 18:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-03-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -58,11 +58,10 @@ and the administrator will contact you if we need any extra information.</h4>
   the pitch.
 -->
 <p>
-  This workshop is an <strong>R-Workshop</strong> with a focus on scientific
-  computing. Everyone with solid basic knowledge of R or a similar scripting language
-  is invited to <strong>join and getting in touch with tools and structures to 
-    write scientific code with a high-quality, that is reproducible and follows a 
-    well-documented standard</strong>.
+	This workshop is a <strong>R-Workshop</strong> with a focus on scientific computing and reproducible research. 
+	Everyone with basic knowledge of R or a similar scripting language, such as Python or Matlab, among others,
+	is invited to <strong>join and getting in touch with tools and structures to write scientific code with a high-quality, 
+	that is reproducible and follows a well-documented standard</strong>.
 </p>
 <p>
   <a href="{{site.swc_site}}">Software Carpentry</a>
@@ -90,10 +89,10 @@ and the administrator will contact you if we need any extra information.</h4>
 -->
 <p id="who">
   <strong>Who:</strong>
-  The course aims at scientists and researchers who are interested in extending their skills
-  in data processing and techniques on "how to write good scientific code"
-  and how to deal with this in a broader context.
-  <strong>Solid basic knowledge of R or a similar scripting language is required. We start the workshop with a R-wrap-up to get everyone on board.</strong>
+	The course aims at scientists and researchers who are interested in extending their skills in data processing
+	and techniques on "how to write good scientific code" and how to deal with this in a broader context.
+	<strong>Basic knowledge of R or a similar scripting language is required.</strong>
+	We start the workshop with an introduction to Python to get everyone on board.
 </p>
 
 <!--
@@ -178,8 +177,9 @@ and the administrator will contact you if we need any extra information.</h4>
 </p>
 <p>
   <strong>Organization:</strong>
-  We're happy to announce that these workshops are jointly organised by the GFZ German Research Centre for Geosciences, 
-  the Potsdam Institute for Climate Impact Research (PIK), the University of Potsdam (UP), and others.
+  We're happy to announce that these workshops are jointly organised by Potsdam Institute for 
+	Climate Impact Research (PIK), GFZ German Research Centre for Geosciences, University of Potsdam (UP), 
+	and others.
 </p>
 <hr/>
 
