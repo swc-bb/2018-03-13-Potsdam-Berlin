@@ -50,6 +50,9 @@ Delete these lines and please fill in
 <a href="{{site.amy_site}}/submit">this self-organized workshop form</a>
 and the administrator will contact you if we need any extra information.</h4>
 -->
+
+<h1>An Introduction to Scientific Computing and Reproducible Research</h1>
+
 <h2 id="general">General Information</h2>
 
 <!--
