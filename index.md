@@ -9,8 +9,8 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latlng: "52.3798284, 13.0641701"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "March 13-14, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 18:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-03-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-03-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2018-03-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2018-03-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Martin Hammitzsch (GFZ)", "Stefan Lüdtke (GFZ)", "Marvin Reich (GFZ)", "?? Till Francke (UP)", "Berry Boessenkool (UP)", "Peter Evans (GFZ)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Knut Günther (GFZ)", "Joachim Krois", "and instructors"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: [swc-workshop-org@gfz-potsdam.de]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -283,7 +283,7 @@ and the administrator will contact you if we need any extra information.</h4>
       <li>Looping over files</li>
       <li>Creating and running shell scripts</li>
       <li>Finding things</li>
-      <li><a href="{{site.swc_pages}}/shell-novice/reference/">Reference...</a></li>
+      <!-- <li><a href="{{site.swc_pages}}/shell-novice/reference/">Reference...</a></li> -->
     </ul>
   </div>
   <div class="col-md-6">
@@ -296,7 +296,7 @@ and the administrator will contact you if we need any extra information.</h4>
       <li>Resolving conflicts</li>
       <li>Working on the web: <code>clone</code>, <code>pull</code>, <code>push</code>, ...</li>
       <li>Where to host work, and why</li>
-      <li><a href="{{site.swc_pages}}/git-novice/reference/">Reference...</a></li>
+      <!-- <li><a href="{{site.swc_pages}}/git-novice/reference/">Reference...</a></li> -->
     </ul>
   </div>
   <div class="col-md-6">
