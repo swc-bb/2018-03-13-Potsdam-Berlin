@@ -6,7 +6,7 @@ venue: "Albert Einstein Science Park, Potsdam, Germany"        # brief name of h
 address: "Kuppel at PIK (Potsdam Institute for Climate Impact Research), Albert-Einstein Wissenschaftspark, Telegrafenberg, 14473 Potsdam"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "52.379622, 13.062263"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+latlng: "52.3806053, 13.0642447"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/) 
 humandate: "March 22-23, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 18:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-03-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
