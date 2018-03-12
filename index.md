@@ -96,7 +96,7 @@ and the administrator will contact you if we need any extra information.</h4>
 	The course aims at scientists and researchers who are interested in extending their skills in data processing
 	and techniques on "how to write good scientific code" and how to deal with this in a broader context.
 	<strong>Basic knowledge of R or a similar scripting language is required.</strong>
-	We start the workshop with an introduction to Python to get everyone on board.
+	We start the workshop with an introduction to R to get everyone on board.
 </p>
 
 <!--
