@@ -225,11 +225,11 @@ and the administrator will contact you if we need any extra information.</h4>
       <tr> <td>09:00</td>  <td>Arrival & coffee</td> </tr>
       <tr> <td>09:30</td> <td>Functions and Unittests</td> </tr>
       <tr> <td>11:00</td>  <td>Coffee</td> </tr>
-      <tr> <td>11:30</td>  <td>Code optimization (Vectorization, profiling, parallelization)</td> </tr>
+      <tr> <td>11:30</td>  <td>Code Optimization, Profiling and Debugging</td> </tr>
       <tr> <td>13:00</td>  <td>Lunch</td> </tr>
-      <tr> <td>14:00</td>  <td>Debugging und Packages</td> </tr>
+      <tr> <td>14:00</td>  <td>Tidyverse</td> </tr>
       <tr> <td>15:30</td>  <td>Coffee</td> </tr>
-      <tr> <td>16:00</td>  <td>Tidyverse and ggplot</td> </tr>
+      <tr> <td>16:00</td>  <td>Visualizations in R (ggplot)</td> </tr>
       <tr> <td>17:30</td>  <td>Wrap-up</td> </tr>
     </table>
   </div>
