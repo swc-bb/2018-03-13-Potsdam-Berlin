@@ -11,8 +11,9 @@ humandate: "April 25-26, 2018"    # human-readable dates for the workshop (e.g.,
 humantime: "9:00 - 18:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-04-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-04-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Martin Hammitzsch (GFZ)", "Stefan Lüdtke (GFZ)", "Marvin Reich (GFZ)", "?? Till Francke (UP)", "Berry Boessenkool (UP)", "Peter Evans (GFZ)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Knut Günther (GFZ)", "Joachim Krois", "and instructors"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Martin Hammitzsch (GFZ)", "Stefan Lüdtke (GFZ)", "Marvin Reich (GFZ)", "Till Francke (UP)", "Berry Boessenkool", "Peter Evans (GFZ)", "Robert Gieseke (PIK), Daniel Beiter (GFZ)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+
+helper: ["Knut Günther (GFZ)", "Joachim Krois (Charité)", "and instructors"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: [swc-workshop-org@gfz-potsdam.de]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
