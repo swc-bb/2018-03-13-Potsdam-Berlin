@@ -52,7 +52,7 @@ Delete these lines and please fill in
 and the administrator will contact you if we need any extra information.</h4>
 -->
 
-<h1>Scientific Computing and Reproducible Research</h1>
+<h1>An Introduction to Scientific Computing and Reproducible Research</h1>
 
 <h2 id="general">General Information</h2>
 
