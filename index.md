@@ -62,12 +62,10 @@ and the administrator will contact you if we need any extra information.</h4>
   the pitch.
 -->
 <p>
-	This workshop focuses on <strong>scientific computing</strong> and <strong>reproducible research</strong> using tool such as the
+	This workshop focuses on <strong>scientific computing</strong> and <strong>reproducible research</strong> using tools such as the
 	<strong>shell</strong>, <strong>git</strong> and <strong>R</strong>. The workshop is aimed at participants who already have basic
 	experience with R. You should be comfortable with using R to read, subset and visualize a dataset, as well as perform tasks
-	conditionally (with if-else statements) and repeatedly (with for and lapply loops). If so, you are invited to join and
-	getting in touch with tools and structures to write scientific code with a high-quality, that is reproducible and follows a well-
-	documented standard.
+	conditionally (with if-else statements) and repeatedly (with for and lapply loops). 
 </p>
 <p>
   <a href="{{site.swc_site}}">Software Carpentry</a>
@@ -129,6 +127,11 @@ and the administrator will contact you if we need any extra information.</h4>
   <a href="//calendar.google.com/calendar/render?action=TEMPLATE&text={% if page.carpentry == "swc" %}Software{% elsif page.carpentry == "dc" %}Data{% endif %} Carpentry Workshop&dates={{ page.startdate | replace: "-", "" }}/{{ page.enddate | replace: "-", "" }}&trp=false&sprop&sprop=name:&sf=true&output=xml&location={{ page.address }}&details={% if page.carpentry == "swc" %}Software{% elsif page.carpentry == "dc" %}Data{% endif %} Carpentry Workshop at {{ page.venue }}">Add to your Google Calendar.</a>
 </p>
 {% endif %}
+
+<p>
+  <strong>Application:</strong> Register online for the workshop by April 03, 2018. There are limited places available. 
+	The application form is found  <a href="https://goo.gl/forms/tbqqHmY1jos5uzh93">here</a>.
+</p>
 
 <!--
   SPECIAL REQUIREMENTS
