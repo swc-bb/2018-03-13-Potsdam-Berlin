@@ -52,7 +52,7 @@ Delete these lines and please fill in
 and the administrator will contact you if we need any extra information.</h4>
 -->
 
-<h1>An Introduction to Scientific Computing and Reproducible Research</h1>
+<h1>Scientific Computing and Reproducible Research</h1>
 
 <h2 id="general">General Information</h2>
 
@@ -62,10 +62,12 @@ and the administrator will contact you if we need any extra information.</h4>
   the pitch.
 -->
 <p>
-	This workshop is a <strong>R-Workshop</strong> with a focus on scientific computing and reproducible research. 
-	Everyone with basic knowledge of R or a similar scripting language, such as Python or Matlab, among others,
-	is invited to <strong>join and getting in touch with tools and structures to write scientific code with a high-quality, 
-	that is reproducible and follows a well-documented standard</strong>.
+	This workshop focuses on <strong>scientific computing</strong> and <strong>reproducible research</strong> using tool such as the
+	<strong>shell</strong>, <strong>git</strong> and <strong>R</strong>. The workshop is aimed at participants who already have basic
+	experience with R. You should be comfortable with using R to read, subset and visualize a dataset, as well as perform tasks
+	conditionally (with if-else statements) and repeatedly (with for and lapply loops). If so, you are invited to join and
+	getting in touch with tools and structures to write scientific code with a high-quality, that is reproducible and follows a well-
+	documented standard.
 </p>
 <p>
   <a href="{{site.swc_site}}">Software Carpentry</a>
@@ -96,7 +98,6 @@ and the administrator will contact you if we need any extra information.</h4>
 	The course aims at scientists and researchers who are interested in extending their skills in data processing
 	and techniques on "how to write good scientific code" and how to deal with this in a broader context.
 	<strong>Basic knowledge of R or a similar scripting language is required.</strong>
-	We start the workshop with an introduction to R to get everyone on board.
 </p>
 
 <!--
@@ -181,9 +182,8 @@ and the administrator will contact you if we need any extra information.</h4>
 </p>
 <p>
   <strong>Organization:</strong>
-  We're happy to announce that these workshops are jointly organised by Potsdam Institute for 
-	Climate Impact Research (PIK), GFZ German Research Centre for Geosciences, University of Potsdam (UP), 
-	and others.
+  	We're happy to announce that these workshops are jointly organised by Potsdam Institute for Climate Impact Research (PIK), 
+	GFZ German Research Centre for Geosciences, University of Potsdam (UP), and others.
 </p>
 <hr/>
 
@@ -223,7 +223,7 @@ and the administrator will contact you if we need any extra information.</h4>
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Arrival & coffee</td> </tr>
-      <tr> <td>09:30</td> <td>Functions and Unittests</td> </tr>
+      <tr> <td>09:30</td>  <td>Functions and Unittests</td> </tr>
       <tr> <td>11:00</td>  <td>Coffee</td> </tr>
       <tr> <td>11:30</td>  <td>Code Optimization, Profiling and Debugging</td> </tr>
       <tr> <td>13:00</td>  <td>Lunch</td> </tr>
