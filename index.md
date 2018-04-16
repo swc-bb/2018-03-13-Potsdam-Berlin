@@ -17,7 +17,7 @@ instructor: ["Martin Hammitzsch (GFZ)", "Stefan Lüdtke (GFZ)", "Marvin Reich (G
 
 helper: ["Knut Günther (GFZ)", "Joachim Krois (Charité)", "and instructors"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: [swc-workshop-org@gfz-potsdam.de]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad:  ["http://pad.software-carpentry.org/2018-04-25-Potsdam-Berlin"]            # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
